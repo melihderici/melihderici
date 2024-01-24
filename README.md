@@ -1,4 +1,4 @@
-[![MasterHead](https://assets-global.website-files.com/6502c274dd4c607b636fb5ef/655b5f1b09f2238e3ed1f873_10-best-ai-startup-ideas.png)
+![MasterHead](https://assets-global.website-files.com/6502c274dd4c607b636fb5ef/655b5f1b09f2238e3ed1f873_10-best-ai-startup-ideas.png)
 
 <h1 align="center">
 こんにちは, I'm Melih Derici</h1>
