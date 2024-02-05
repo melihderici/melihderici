@@ -2,7 +2,6 @@
 
 <h1 align="center">
 こんにちは, I'm Melih Derici</h1>
-<h3 align="center">I am currently a learner of Deep Learning</h3>
 
 - 🔭 I’m currently working on **Data Science**
 
