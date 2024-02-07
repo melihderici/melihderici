@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **AI**
 
-- 💬 Ask me about **Python, Power BI, Tableau, SQL, Matplotlib, Seaborn**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **mtderici@gmail.com**
 
