@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Reinforcement Learning, NLP, Computer Vision**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for help with **AI**
 
