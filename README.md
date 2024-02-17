@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **Machine Learning, Deep Learning**
 
 - 💬 Ask me about **Data Analysis**
 
